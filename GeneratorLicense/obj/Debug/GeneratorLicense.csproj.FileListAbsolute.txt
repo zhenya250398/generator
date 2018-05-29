@@ -1,0 +1,10 @@
+c:\users\genets\documents\visual studio 2015\Projects\GeneratorLicense\GeneratorLicense\bin\Debug\GeneratorLicense.exe
+c:\users\genets\documents\visual studio 2015\Projects\GeneratorLicense\GeneratorLicense\bin\Debug\GeneratorLicense.pdb
+c:\users\genets\documents\visual studio 2015\Projects\GeneratorLicense\GeneratorLicense\obj\Debug\GeneratorLicense.csprojResolveAssemblyReference.cache
+c:\users\genets\documents\visual studio 2015\Projects\GeneratorLicense\GeneratorLicense\obj\Debug\GeneratorLicense.exe
+c:\users\genets\documents\visual studio 2015\Projects\GeneratorLicense\GeneratorLicense\obj\Debug\GeneratorLicense.pdb
+C:\Users\DOC\Desktop\GeneratorLicense\GeneratorLicense\obj\Debug\GeneratorLicense.exe
+C:\Users\DOC\Desktop\GeneratorLicense\GeneratorLicense\obj\Debug\GeneratorLicense.pdb
+C:\Users\DOC\Desktop\GeneratorLicense\GeneratorLicense\bin\Debug\GeneratorLicense.exe
+C:\Users\DOC\Desktop\GeneratorLicense\GeneratorLicense\bin\Debug\GeneratorLicense.pdb
+C:\Users\DOC\Desktop\GeneratorLicense\GeneratorLicense\obj\Debug\GeneratorLicense.csprojResolveAssemblyReference.cache
